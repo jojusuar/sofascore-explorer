@@ -1,3 +1,4 @@
 *.png
 .venv
+*.json
 __pycache__
